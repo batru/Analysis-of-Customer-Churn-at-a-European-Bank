@@ -59,9 +59,8 @@ pip install pandas numpy matplotlib seaborn
 2. **Data Cleaning**: Handling missing values, correcting data types, and merging data from multiple sources.
 3. **Exploratory Data Analysis (EDA)**: Visualization of key features such as credit scores, customer age distribution, account balance, and churn correlations.
 4. **Feature Engineering**: Creating additional features based on existing data to enhance predictive models.
-5. **Modeling (if applicable)**: Building and evaluating models to predict customer churn.
-6. **Results**: Summarizing insights and identifying key drivers of churn.
-7. **Recommendations**: Providing actionable insights to improve customer retention.
+5. **Results**: Summarizing insights and identifying key drivers of churn.
+6. **Recommendations**: Providing actionable insights to improve customer retention.
 
 ---
 
